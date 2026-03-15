@@ -15,4 +15,4 @@ görevler:
 +dondurma almak
 +davulcuya bahşiş vermek
 
-nasıl oynanır: oyun başlarken 2 karakterden birini seçmelisin. karakter seçtikten sonra haritada "A, S, D, W" tuşları veya yön tuşları ile karakteri hareket ettirebilirsin. "p" tuşu ile oyunu durdurup devam ettirebilirin. görevleri tamamlamak ve etkileşime geçmek için space tuşunu kullanabilirsin 
+nasıl oynanır: Kaynak kodunu indirdikten sonra index.html dosyası tarayıcıdan açılarak oyuna ulaşılabilir. Oyun başlarken 2 karakterden birini seçmelisin. karakter seçtikten sonra haritada "A, S, D, W" tuşları veya yön tuşları ile karakteri hareket ettirebilirsin. "p" tuşu ile oyunu durdurup devam ettirebilirin. görevleri tamamlamak ve etkileşime geçmek için space tuşunu kullanabilirsin 
